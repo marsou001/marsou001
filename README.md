@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Let's talk:
+- Website: https://marouanedasouda.com
+- LinkedIn: https://www.linkedin.com/in/marouane-souda-837512163/
+- Twitter: https://twitter.com/marouane_souda
+- Instagram: https://www.instagram.com/marouane.codes/
+- Dev.to: https://dev.to/marsou001
+- CodePen: https://codepen.io/marsou001
