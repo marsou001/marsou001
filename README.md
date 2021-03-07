@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Let's talk:
-- Website: https://marouanedasouda.com
+- Website: https://marouanesouda.com
 - LinkedIn: https://www.linkedin.com/in/marouane-souda-837512163/
 - Twitter: https://twitter.com/marouane_souda
 - Instagram: https://www.instagram.com/marouane.codes/
