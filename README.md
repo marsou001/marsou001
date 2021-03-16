@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ### Let's talk:
 - Website: https://marouanesouda.com
-- LinkedIn: https://www.linkedin.com/in/marouane-souda-837512163/
+- LinkedIn: https://www.linkedin.com/in/marouane-souda
 - Twitter: https://twitter.com/marouane_souda
-- Instagram: https://www.instagram.com/marouane.codes/
+- Instagram: https://www.instagram.com/marouane.codes
 - Dev.to: https://dev.to/marsou001
 - CodePen: https://codepen.io/marsou001
