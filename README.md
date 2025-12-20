@@ -15,9 +15,29 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-I am Marouane Souda, a full-stack developer. I am work mainly with React/NextJS, but I have some experience with VueJS as well.
+I am Marouane Souda, a **freelance web developer** focused on building fast, scalable, and well-designed web applications.  
+I work across the stack and enjoy contributing to open-source projects that power modern developer tools.
 
-I'd love it if we can connect. I am currently open for new opportunities. If you have or know one, please hit me up!
+## What I Do
+
+- Full-stack web development
+- Frontend architecture with **React & Next.js**
+- Type-safe development using **TypeScript**
+- Modern UI with **Tailwind CSS**
+- Backend & data using **Supabase** and **PostgreSQL**
+
+I care deeply about clean code, accessibility, and maintainable UI systems.
+
+## Open-Source Contributions (Highlight)
+
+Open source is a big part of how I learn, give back, and stay sharp.
+
+### `supabase/supabase`
+- Contributed multiple **UI bug fixes and improvements**
+- Worked within an established design system and large production codebase
+- Collaborated via issues, PR reviews, and maintainers’ feedback
+
+Contributing to Supabase has given me hands-on experience improving real-world developer tools used by thousands of teams.
 
 ## Tech stack
 
@@ -38,6 +58,15 @@ I'd love it if we can connect. I am currently open for new opportunities. If you
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="72" height="72" title="PostgreSQL" alt="PostgreSQL" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="72" height="72" title="Supabase" alt="Supabase" />
 </p>
+
+## Collaboration & Freelance
+
+I'm open to:
+- **Freelance or contract projects**
+- **Open-source collaboration**
+- Short-term or long-term engagements
+
+If you’re building a product, improving an existing codebase, or maintaining an open-source project — I’d love to collaborate.
 
 ## Let's talk
 - Website: https://marouanesouda.com
